@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Visualizing Types and Functions"
-date:   2020-05-24 02:27:15 -0400
+subtitle: "A quick introduction to category theory as it applies to Swift"
+date: 2020-05-24 02:27:15 -0400
 categories: jekyll update
 tags: functional_programming swift category_theory
 ---
