@@ -5,8 +5,6 @@ subtitle: "Notes on Lecture 0 of Programming with Categories"
 date: 2021-05-07 01:54:15 -0400
 tags: functional_programming swift category_theory
 ---
-# Programming With Categories
-
 ## Lecture 0 Notes
 _The following are my notes and thoughts from the following lecture on category theory: [Programming With Categories - Lecture 0](https://youtu.be/NUBEB9QlNCM)._
 
