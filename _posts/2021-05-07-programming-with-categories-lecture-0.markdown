@@ -19,7 +19,9 @@ An example of structural patterns that might be familiar to programmers are the 
 This sequence of lectures will focus on providing an overview of the mathematics of category theory as well as its connections to programming (specifically types and functions). We will find that we can relate many useful programming concepts to the abstract mathematical ideas found in category theory:
 
 Universal Constructors -> Abstract Data Types
+
 Algebras & Coalgebras -> Recursive Data Types
+
 Monads -> Composition & Side Effects
 
 As I gain more experience as a programmer, I do find the same kinds of problems arising again and again. What kinds of functions and data types do I create, and how do I combine them together in order to achieve an end product that satisfies the required constraints and is also easy to understand, modify & test?
